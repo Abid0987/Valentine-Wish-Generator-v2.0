@@ -1,4 +1,4 @@
-# Valentine Wish Maker 💌
+# Valentine Wish Maker v2.0 💌
 
 A simple and fun app to create and send personalized Valentine's wishes to your crush! Customize your message, or generate wish message, and "send" it with a cute confirmation.
 
